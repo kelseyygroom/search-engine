@@ -29,4 +29,4 @@ The search component reads a query from the console, stems and tokenizes terms, 
 
 1. Download the code and sample index JSON files. Ensure all files are stored in the same directory (the sample index files should be removed from their folder).
 2. In the terminal, navigate to the directory the files are stored and type: ```shell python search.py ```
-3. You should be prompted to enter a query. You will recieve up to 50 relevant documents. Continue searching or type ``shell QUIT_SE``` to shut down the search engine.
+3. You should be prompted to enter a query. You will recieve up to 50 relevant documents. Continue searching or type ```shell QUIT_SE``` to shut down the search engine.
